@@ -1,0 +1,15 @@
+*.out
+*.o
+*.a
+hdb/testlibhdb*
+
+*.swp
+*/bin/
+*.cbp
+*.layout
+*.depend
+
+*.cbp
+*.layout
+
+*.md
